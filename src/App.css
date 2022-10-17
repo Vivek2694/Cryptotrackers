@@ -43,3 +43,13 @@
 .coin-input::placeholder{
   color: aqua;
 }
+
+.search-result{
+  background-color: #F0F8FF;
+  width: 100%;
+  margin-top: 3px
+}
+.search-result-item{
+  color: black;
+  cursor: pointer;
+}
